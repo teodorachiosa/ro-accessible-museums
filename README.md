@@ -1,1 +1,1 @@
-Pnetru mai mlte detalii, accesați tabul [Wiki](https://github.com/teodorachiosa/muzee-accesibile/wiki).
+Pentru mai multe detalii, accesați tabul [Wiki](https://github.com/teodorachiosa/muzee-accesibile/wiki).
